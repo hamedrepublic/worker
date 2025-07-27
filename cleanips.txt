@@ -1,8 +1,10 @@
- www.cloudflare.com
-www.windowsupdate.com
-www.microsoft.com
-www.office.com
-www.apple.com
-www.akamaized.net 
-www.cloudfront.net
-www.digikala.com
+104.21.6.63
+104.21.18.219
+104.17.34.36
+104.25.28.156
+104.16.228.28
+104.21.33.27
+104.24.251.251
+104.21.13.56
+104.18.172.4
+104.24.18.69
